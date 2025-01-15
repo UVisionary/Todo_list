@@ -1,0 +1,8 @@
+{
+    "builds": [
+        {
+            "src": "todo_list.html",
+            "use": "@vercel/static"
+        }
+    ]
+}
